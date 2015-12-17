@@ -41,3 +41,5 @@ Thumbs.db
 *.ipr
 .idea
 .gradle/
+*.class
+build/
